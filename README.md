@@ -4,12 +4,12 @@
 This project analyzes train accidents in India from 2014 to 2024, focusing on identifying trends in fatalities, injuries, and the regions most affected by these incidents. The data was collected from Wikipedia, cleaned and stored in Excel, and the analysis was performed using Power BI to create meaningful visualizations that provide insights into the accident trends.
 
 **Table of Contents**
-- [Project Overview]
+- Project Overview
 - Data Collection
-- [Data Cleaning] 
-- [Analysis]( 
-- [Visualizations] 
-- [Conclusion]
+- Data Cleaning
+- Analysis
+- Visualizations
+- Conclusion
 
 
 ### Data Collection
