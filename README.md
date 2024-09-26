@@ -50,4 +50,4 @@ Two key visualizations were created:
 - This analysis provides valuable insights for railway authorities to focus on accident-prone areas and improve safety measures.
 
 
-                                                                                                                                                      **By MD ADIL**
+                                                                                                **By MD ADIL**
